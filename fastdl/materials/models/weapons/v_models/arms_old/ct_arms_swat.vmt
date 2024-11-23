@@ -1,7 +1,7 @@
 "VertexLitGeneric"
 {
 	"$baseTexture" "models/weapons/v_models/arms_old/ct_arms_swat"
-	"$bumpMap" "models/weapons/v_models/arms/ct_arms_normal"
+	"$bumpMap" "models/weapons/v_models/arms_old/ct_arms_normal"
 
 	"$phong" "1"
 	"$phongBoost" "1"
