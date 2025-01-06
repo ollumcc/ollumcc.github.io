@@ -1,2 +1,1 @@
-# oleks-fastdl
-My FastDL Server
+My CDN Server
